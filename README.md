@@ -3,6 +3,9 @@
 # FórumHub - API de Tópicos 💬  
 Este projeto foi desenvolvido como parte do desafio Alura + Oracle ONE e tem como objetivo criar um sistema de gerenciamento de tópicos para um fórum. A API permite que os usuários criem, visualizem, atualizem, excluam tópicos e respondam a eles. Além disso, os usuários podem excluir suas próprias respostas. A autenticação via JWT (JSON Web Token) é implementada para garantir que apenas o usuário criador do tópico ou da resposta possa atualizá-los ou excluí-los.
 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1Lg2qL4zv0NdKYmNzp6JRfi6JvPfcb2iu" width="200"/>
+</p>
 
 ---
 
