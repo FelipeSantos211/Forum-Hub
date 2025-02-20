@@ -27,7 +27,7 @@ Este projeto foi desenvolvido como parte do desafio Alura + Oracle ONE e tem com
 
 1. **Clone o repositório**:
    ```bash
-   git clone <https://github.com/FelipeSantos211/Forum-Hub>
+   git clone https://github.com/FelipeSantos211/Forum-Hub
    cd Forum-Hub
    ```
 
